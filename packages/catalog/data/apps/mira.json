@@ -1,0 +1,22 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "mira",
+	"name": "mira",
+	"author": "mrsibe",
+	"kind": "web",
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"group": "ai",
+	"url": "https://github.com/mrsibe/mira",
+	"repo": "mrsibe/mira",
+	"summary": {
+		"en": "类 ChatGPT 的本地聊天客户端，拥有网络搜索、记忆、Intelligent UI 等能力，界面简洁克制，专为聊天、调研、探索而生。"
+	},
+	"description": {
+		"en": "类 ChatGPT 的本地聊天客户端，拥有网络搜索、记忆、Intelligent UI 等能力，界面简洁克制，专为聊天、调研、探索而生。"
+	},
+	"added": "2026-11-11T14:16:55Z"
+}
