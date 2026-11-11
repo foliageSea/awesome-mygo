@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema/ai.schema.json",
+	"slug": "mira",
+	"name": "Mira",
+	"author": "mrsibe",
+	"summary": {
+		"en": "类 ChatGPT 的本地聊天客户端，拥有网络搜索、记忆、Intelligent UI 等能力，界面简洁克制，专为聊天、调研、探索而生。"
+	},
+	"repo": "mrsibe/mira",
+	"url": "https://github.com/mrsibe/mira",
+	"type": "skill",
+	"install": "npx skills add mrsibe/mira",
+	"tags": [
+		"ai"
+	],
+	"added": "2026-11-11T13:33:23Z"
+}
