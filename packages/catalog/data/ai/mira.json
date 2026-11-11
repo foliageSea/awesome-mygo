@@ -4,14 +4,21 @@
 	"name": "Mira",
 	"author": "mrsibe",
 	"summary": {
-		"en": "类 ChatGPT 的本地聊天客户端，拥有网络搜索、记忆、Intelligent UI 等能力，界面简洁克制，专为聊天、调研、探索而生。"
+		"en": "A local-first ChatGPT desktop client with web search, long-term memory and tool calls, which also connects to local models such as Ollama.",
+		"zh-CN": "本地优先的 ChatGPT 桌面客户端，支持联网搜索、长期记忆和工具调用，可接入 Ollama 等本地模型。",
+		"zh-TW": "本機優先的 ChatGPT 桌面用戶端，支援聯網搜尋、長期記憶和工具呼叫，可接入 Ollama 等本機模型。",
+		"ja": "ローカルファーストの ChatGPT デスクトップクライアント。Web 検索、長期記憶、ツール呼び出しに対応し、Ollama などのローカルモデルにも接続できる。",
+		"ko": "로컬 우선 ChatGPT 데스크톱 클라이언트입니다. 웹 검색, 장기 기억, 도구 호출을 지원하고 Ollama 같은 로컬 모델에도 연결할 수 있습니다."
 	},
 	"repo": "mrsibe/mira",
 	"url": "https://github.com/mrsibe/mira",
-	"type": "skill",
+	"type": "other",
 	"install": "npx skills add mrsibe/mira",
 	"tags": [
-		"ai"
+		"chat",
+		"llm",
+		"desktop"
 	],
+	"screenshot": "mira.webp",
 	"added": "2026-11-11T13:33:23Z"
 }
